@@ -104,7 +104,7 @@
             "action" : 
             {
                 "type" : "openLink",
-				"link" : "http://www.feed-the-beast.com/projects/ftb-infinity-evolved/files"
+				"link" : "http://www.feed-the-beast.com/projects/ftb-infinity-evolved-skyblock/files"
             }
         },		
 		"Forums":
@@ -134,7 +134,7 @@
             "action" : 
             {
                 "type" : "openLink",
-				"link" : "http://www.feed-the-beast.com/projects/ftb-infinity-evolved/files"
+				"link" : "http://www.feed-the-beast.com/projects/ftb-infinity-evolved-skyblock/files"
             }
         },		
         "options":
@@ -259,7 +259,7 @@
             "alignment" : "bottom_left"
 		},
 		"modpack2":{
-			"text" : "Skyblock 1.0.3",
+			"text" : "Skyblock 1.1.0",
             "posX" : 3,
             "posY" : -27,
 			"fontSize" : .6,
