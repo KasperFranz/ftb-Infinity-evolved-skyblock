@@ -259,7 +259,7 @@
             "alignment" : "bottom_left"
 		},
 		"modpack2":{
-			"text" : "Skyblock 1.1.0",
+			"text" : "Skyblock 1.2.0",
             "posX" : 3,
             "posY" : -27,
 			"fontSize" : .6,
